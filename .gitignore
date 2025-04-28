@@ -2,6 +2,8 @@ devTinder/node_modules
 devTinder/build
 devTinder/dist
 devTinder/.env
+devTinder/package-lock.json
 
 devTinder_web/node_modules
 devTinder_web/build
+devTinder_web/package-lock.json
