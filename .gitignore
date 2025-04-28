@@ -1,0 +1,7 @@
+devTinder/node_modules
+devTinder/build
+devTinder/dist
+devTinder/.env
+
+devTinder_web/node_modules
+devTinder_web/build
