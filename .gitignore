@@ -7,3 +7,4 @@ devTinder/package-lock.json
 devTinder_web/node_modules
 devTinder_web/build
 devTinder_web/package-lock.json
+./DS_Store
